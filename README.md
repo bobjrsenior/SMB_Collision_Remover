@@ -16,4 +16,4 @@ Add the file path as the command line parameter. Future support will include pas
 
 ### Raw LZ
 
-https://craftedcart.github.io/SMBLevelWorkshop/documentation/index.html?page=lzFormat2
+https://craftedcart.github.io/SMBLevelWorkshop/documentation/index.html?page=lzFormat1
